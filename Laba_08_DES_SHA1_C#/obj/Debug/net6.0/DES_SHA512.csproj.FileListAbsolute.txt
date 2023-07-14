@@ -1,0 +1,15 @@
+D:\ОИБ\Laba_08_DES_SHA1_C#\bin\Debug\net6.0\DES_SHA512.exe
+D:\ОИБ\Laba_08_DES_SHA1_C#\bin\Debug\net6.0\DES_SHA512.deps.json
+D:\ОИБ\Laba_08_DES_SHA1_C#\bin\Debug\net6.0\DES_SHA512.runtimeconfig.json
+D:\ОИБ\Laba_08_DES_SHA1_C#\bin\Debug\net6.0\DES_SHA512.dll
+D:\ОИБ\Laba_08_DES_SHA1_C#\bin\Debug\net6.0\DES_SHA512.pdb
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.csproj.AssemblyReference.cache
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.AssemblyInfoInputs.cache
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.AssemblyInfo.cs
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.csproj.CoreCompileInputs.cache
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.dll
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\refint\DES_SHA512.dll
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.pdb
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\DES_SHA512.genruntimeconfig.cache
+D:\ОИБ\Laba_08_DES_SHA1_C#\obj\Debug\net6.0\ref\DES_SHA512.dll

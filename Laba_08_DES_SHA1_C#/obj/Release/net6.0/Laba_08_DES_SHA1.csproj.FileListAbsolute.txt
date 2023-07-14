@@ -1,0 +1,15 @@
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\bin\Release\net6.0\Laba_08_DES_SHA1.exe
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\bin\Release\net6.0\Laba_08_DES_SHA1.deps.json
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\bin\Release\net6.0\Laba_08_DES_SHA1.runtimeconfig.json
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\bin\Release\net6.0\Laba_08_DES_SHA1.dll
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\bin\Release\net6.0\Laba_08_DES_SHA1.pdb
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.csproj.AssemblyReference.cache
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.AssemblyInfoInputs.cache
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.AssemblyInfo.cs
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.csproj.CoreCompileInputs.cache
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.dll
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\refint\Laba_08_DES_SHA1.dll
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.pdb
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\Laba_08_DES_SHA1.genruntimeconfig.cache
+D:\ВУЗ\2nd-year\FoIS\Laba_08_DES_SHA1\obj\Release\net6.0\ref\Laba_08_DES_SHA1.dll
